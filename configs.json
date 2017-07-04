@@ -1,6 +1,6 @@
 {
     "General": [
-        "Site_Url", "Site_Name", "Language", "Allow_Invalid_SelfSigned_Certs", "Desktop_Notifications_Duration", "API_User_Limit"
+        "Site_Url", "Site_Name", "Language", "Allow_Invalid_SelfSigned_Certs", "Desktop_Notifications_Duration", "API_User_Limit", "Language"
     ],
     "Accounts": [
         "Accounts_RegistrationForm_LinkReplacementText", "Accounts_AllowUsernameChange", "Accounts_AllowEmailChange", "Accounts_AllowPasswordChange", "Accounts_AvatarStoreType", "Accounts_AvatarStorePath", "Accounts_SetDefaultAvatar", "Accounts_RegistrationForm", "Accounts_RegistrationForm_SecretURL", "Accounts_Registration_AuthenticationServices_Enabled", "Accounts_PasswordReset", "Default_User_Settings_unreadRoomsMode", "Accounts_EmailOrUsernamePlaceholder"
