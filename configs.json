@@ -1,0 +1,42 @@
+{
+    "General": [
+        "Site_Url", "Site_Name", "Language", "Allow_Invalid_SelfSigned_Certs", "Desktop_Notifications_Duration", "API_User_Limit"
+    ],
+    "Accounts": [
+        "Accounts_RegistrationForm_LinkReplacementText", "Accounts_AllowUsernameChange", "Accounts_AllowEmailChange", "Accounts_AllowPasswordChange", "Accounts_AvatarStoreType", "Accounts_AvatarStorePath", "Accounts_SetDefaultAvatar", "Accounts_RegistrationForm", "Accounts_RegistrationForm_SecretURL", "Accounts_Registration_AuthenticationServices_Enabled", "Accounts_PasswordReset", "Default_User_Settings_unreadRoomsMode", "Accounts_EmailOrUsernamePlaceholder"
+    ],
+    "Email": [
+        "SMTP_Host", "SMTP_Port", "SMTP_Username", "SMTP_Password", "From_Email"
+    ],
+    "LDAP": [
+        "LDAP_Login_Fallback", "LDAP_Enable", "LDAP_Host", "LDAP_Port", "LDAP_Domain_Base", "LDAP_Domain_Search_User", "LDAP_Domain_Search_Password", "LDAP_Domain_Search_Filter", "LDAP_Domain_Search_User_ID", "LDAP_Domain_Search_Object_Class", "LDAP_Domain_Search_Object_Category", "LDAP_Username_Field", "LDAP_Sync_User_Data", "LDAP_Sync_User_Avatar", "LDAP_Default_Domain", "LDAP_Merge_Existing_Users", "LDAP_Sync_User_Data_FieldMap"
+    ],
+    "Message": [
+        "Message_AllowEditing", "Message_AllowDeleting", "Message_SetNameToAliasEnabled", "Message_TimeFormat", "Message_DateFormat", "Markdown_Headers", "Message_ShowDeletedStatus"
+    ],
+    "OTR": [
+        "OTR_Enable"
+    ],
+    "Push": [
+        "Push_enable", "Push_debug", "Push_enable_gateway", "Push_gateway"
+    ],
+    "FileUpload": [
+        "FileUpload_MaxFileSize", "FileUpload_Storage_Type", "FileUpload_MediaTypeWhiteList", "FileUpload_FileSystemPath"
+    ],
+    "Video Conference": [
+        "Jitsi_Enabled"
+    ], 
+    "Layout": [
+        "theme-color-secondary-background-color", "theme-color-secondary-font-color", "theme-color-secondary-action-color", "theme-color-component-color", "theme-color-success-color", "theme-custom-css", "Layout_Home_Body", "Layout_Terms_of_Service", "Layout_Login_Terms", "Layout_Privacy_Policy", "Layout_Sidenav_Footer"
+    ],
+    "smtp": [
+        "SMTP_Host", "SMTP_Port", "SMTP_Username", "SMTP_Password", "From_Email"
+    ],
+    "file_upload": [
+        "FileUpload", "FileUpload_Enabled", "FileUpload_MaxFileSize", "FileUpload_MediaTypeWhiteList", 
+        "FileUpload_ProtectFiles", "FileUpload_Storage_Type", "FileUpload_ProtectFiles", "FileUpload_Storage_Type",
+        "FileUpload_S3_Bucket", "FileUpload_S3_Acl", "FileUpload_S3_Bucket", "FileUpload_S3_AWSAccessKeyId",
+        "FileUpload_S3_AWSSecretAccessKey", "FileUpload_S3_CDN", "FileUpload_S3_Region", "FileUpload_S3_BucketURL",
+        "FileUpload_S3_URLExpiryTimeSpan"
+    ]
+}
